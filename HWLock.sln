@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLock", "HWLock\HWLock.csproj", "{5340FD9B-66A9-468E-A916-11C3ABBCA102}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HWTasks", "HWTasks", "{5A179C6D-EF92-4612-BD93-B0DE1B55485D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWTasks", "HWTasks\HWTasks.csproj", "{473B4A2E-DF49-4985-A811-16172F177C83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,9 @@ Global
 		{5340FD9B-66A9-468E-A916-11C3ABBCA102}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5340FD9B-66A9-468E-A916-11C3ABBCA102}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5340FD9B-66A9-468E-A916-11C3ABBCA102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473B4A2E-DF49-4985-A811-16172F177C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473B4A2E-DF49-4985-A811-16172F177C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473B4A2E-DF49-4985-A811-16172F177C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473B4A2E-DF49-4985-A811-16172F177C83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
