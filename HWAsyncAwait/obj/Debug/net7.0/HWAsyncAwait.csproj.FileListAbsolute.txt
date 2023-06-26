@@ -1,0 +1,15 @@
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/bin/Debug/net7.0/HWAsyncAwait
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/bin/Debug/net7.0/HWAsyncAwait.deps.json
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/bin/Debug/net7.0/HWAsyncAwait.runtimeconfig.json
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/bin/Debug/net7.0/HWAsyncAwait.dll
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/bin/Debug/net7.0/HWAsyncAwait.pdb
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/HWAsyncAwait.csproj.AssemblyReference.cache
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/HWAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/HWAsyncAwait.AssemblyInfoInputs.cache
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/HWAsyncAwait.AssemblyInfo.cs
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/HWAsyncAwait.csproj.CoreCompileInputs.cache
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/HWAsyncAwait.dll
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/refint/HWAsyncAwait.dll
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/HWAsyncAwait.pdb
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/HWAsyncAwait.genruntimeconfig.cache
+/Users/a1/RiderProjects/HWLock/HWAsyncAwait/obj/Debug/net7.0/ref/HWAsyncAwait.dll

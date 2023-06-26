@@ -6,6 +6,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HWTasks", "HWTasks", "{5A17
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWTasks", "HWTasks\HWTasks.csproj", "{473B4A2E-DF49-4985-A811-16172F177C83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWAsyncAwait", "HWAsyncAwait\HWAsyncAwait.csproj", "{4764BD8E-6F5A-4BA9-BD6C-AF3451A58E78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,5 +22,9 @@ Global
 		{473B4A2E-DF49-4985-A811-16172F177C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{473B4A2E-DF49-4985-A811-16172F177C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{473B4A2E-DF49-4985-A811-16172F177C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4764BD8E-6F5A-4BA9-BD6C-AF3451A58E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4764BD8E-6F5A-4BA9-BD6C-AF3451A58E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4764BD8E-6F5A-4BA9-BD6C-AF3451A58E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4764BD8E-6F5A-4BA9-BD6C-AF3451A58E78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
